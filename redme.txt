@@ -1,0 +1,24 @@
+This Python script helps calculate and split monthly household expenses
+(rent, food, and electricity bill) equally among a group of people.
+
+
+💡 Features
+
+    Accepts user input for:
+
+        Total rent
+
+        Total food expenses
+
+        Electricity bill units and charge per unit
+
+        Total number of people sharing the cost
+
+    Calculates:
+
+        Total electricity cost
+
+        Total monthly expense
+
+        Each person’s share
+
